@@ -661,7 +661,7 @@ npm test
 
 ## 📝 Hinweis
 
-Dieses Projekt wurde als Lern- und Studienbasis erworben und anschließend erweitert, lokal ausgeführt und dokumentiert, um Microservices-Architekturen besser zu verstehen.
+Dieses Projekt wurde zu Lernzwecken erstellt.
 
 ---
 

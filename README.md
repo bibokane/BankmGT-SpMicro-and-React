@@ -637,17 +637,6 @@ npm test
 
 ---
 
-## 📊 Projektstatistiken
-
-- **Microservices**: 7 Services
-- **Backend-Code**: 50.000+ Zeilen Java
-- **Frontend-Komponenten**: 60+ React-Komponenten
-- **API-Endpoints**: 50+ REST-Endpunkte
-- **Datenbank-Tabellen**: 7 Haupttabellen
-- **Technologie-Stack**: 20+ moderne Technologien
-
----
-
 ## 🔐 Sicherheitsaspekte
 
 - **JWT Token** - Sichere Token-Generierung und -Validierung

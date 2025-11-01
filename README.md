@@ -661,16 +661,13 @@ npm test
 
 ## 📝 Hinweis
 
-**Dieses Projekt ist ein privates Lernprojekt** und dient ausschließlich Bildungs- und Demonstrationszwecken.
-
-Das Projekt zeigt eine vollständige Implementierung moderner Microservices-Architektur mit Spring Boot und React und kann als Referenz für ähnliche Projekte dienen.
+Dieses Projekt wurde als Lern- und Studienbasis erworben und anschließend erweitert, lokal ausgeführt und dokumentiert, um Microservices-Architekturen besser zu verstehen.
 
 ---
 
 ## 📞 Kontakt
 
 - **Repository**: https://github.com/bibokane/BankmGT-SpMicro-and-React
-- **Entwickler**: Habib Kane
 - **Projekt-Typ**: Lernprojekt / Educational Project
 
 ---

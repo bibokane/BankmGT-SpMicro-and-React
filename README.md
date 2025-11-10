@@ -103,7 +103,7 @@
 1. **Repository klonen**
 ```bash
 git clone https://github.com/bibokane/BankmGT-SpMicro-and-React.git
-cd "BankmGT SpMicro and React"
+cd BankmGT-SpMicro-and-React
 ```
 
 2. **Datenbank einrichten**
